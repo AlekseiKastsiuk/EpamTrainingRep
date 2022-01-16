@@ -26,5 +26,9 @@
 add
 some lines
 
+<<<<<<< HEAD
 test difference local
 
+=======
+test difference github
+>>>>>>> 10a4213aa61da706a29b5a281cd8dfef9bafe422
